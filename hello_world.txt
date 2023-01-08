@@ -1,1 +1,6 @@
 Changing the file because the lesson wanted me to!
+
+git add .
+git commit -m "Commment"
+git push
+git log
